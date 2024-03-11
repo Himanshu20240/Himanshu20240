@@ -3,19 +3,14 @@
 <h3 align="center">A passionate frontend Developer and Backend Developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://github.com/Himanshu20240/Himanshu20240/blob/main/ooo.gif">
 
-- 🔭 I’m currently working on **..............**
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **..............**
 
 - 👨‍💻 All of my projects are available at [https://himanshu20240.github.io/upskill/](https://himanshu20240.github.io/upskill/)
 
 - 💬 Ask me about **MY Sql javascript Node js MongoDB**
 
 - 📫 How to reach me **himanshusingh728999@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Himanshu20240/Himanshu20240/blob/main/Resume.pdf](https://github.com/Himanshu20240/Himanshu20240/blob/main/Resume.pdf)
 
 - ⚡ Fun fact **Learning New Things**
 
